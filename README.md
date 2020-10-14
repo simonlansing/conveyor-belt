@@ -2,7 +2,7 @@
 
 Miniature conveyor belt for simulation and fun working with sensors, all controllable with Raspberry Pi. All sensors and actuators of the conveyor belt are connected to the GPIO pins of the Raspberry Pi via a separate circuit board. The board contains a motor driver, a push button and three LEDs.
 
-As simulation software [Node-RED](https://nodered.org/) could be used locally on the Raspberry Pi. Based on this, the sensors and actuators could also be mapped as device shadows in the AWS IoT platform (Software follows :-)).
+As simulation software [Node-RED](https://nodered.org/) could be used locally on the Raspberry Pi. Based on this, the sensors and actuators could also be mapped as device shadows in the AWS IoT platform (Software follows :smile:).
 
 ![image of front side](./images/front_side_left.png "front side")
 ![image of front side with PCB](./images/front_side_left_pcb.png "front side with PCB")
